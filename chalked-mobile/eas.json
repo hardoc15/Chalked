@@ -30,12 +30,12 @@
   "submit": {
     "production": {
       "ios": {
-        "appleId": "your-apple-id@email.com",
-        "ascAppId": "your-app-store-connect-app-id",
-        "appleTeamId": "your-apple-team-id"
+        "appleId": "hardoc15@gmail.com",
+        "ascAppId": "TBD",
+        "appleTeamId": "TBD"
       },
       "android": {
-        "serviceAccountKeyPath": "./path/to/api-key.json",
+        "serviceAccountKeyPath": "./google-play-key.json",
         "track": "internal"
       }
     }
